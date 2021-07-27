@@ -1,0 +1,31 @@
+h1,p{
+    text-align: center;
+    color: black;
+    border-style: dotted;
+    border-color: chartreuse ;
+    direction: rtl;
+    text-decoration: underline;
+    letter-spacing: 3px;;
+}
+body{
+    text-align: center;
+    /* background-image: url(bg.jpeg); */
+    /* background-repeat: 3; */
+    background-position: right;
+    background-attachment: fixed;
+}
+h2{
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-bottom: auto;
+    margin-top: auto;
+    border: 1px;
+    border-style: double;
+    border-color: blueviolet;
+    padding: 1px;
+    text-shadow: 5px 5px;
+    border-image: url(bg.jpeg);
+}
+img{
+    opacity: 1;
+}
